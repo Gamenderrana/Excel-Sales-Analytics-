@@ -12,11 +12,11 @@ AtliQ Sales Report
 
   ## Finance Report :
 
-  - **Project objective:**
+- **Project objective:**
      **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Gamenderrana/Excel-Sales-Analytics-/blob/main/P%20%26%20L%20%20Statement%20by%20Fiscal%20Year.pdf )_ & _[Months](https://github.com/Gamenderrana/Excel-Sales-Analytics-/blob/main/P%20%26%20L%20%20Statement%20by%20%20Months.pdf)
-  -**Purpose of sales analytics:** Assess financial performance, aid in decision-making, and streamline communication with stakeholders.
-  -**Importance of analyzing Finance data:** Help compare how well the business is doing with others in the same industry and in the past. Also, provides a basis for planning how to spend money and predict future outcomes.
-  -**Role of reports:** Ensure that financial plans are in sync with strategic objectives and instill confidence in the organization's financial future.
+- **Purpose of sales analytics:** Assess financial performance, aid in decision-making, and streamline communication with stakeholders.
+- **Importance of analyzing Finance data:** Help compare how well the business is doing with others in the same industry and in the past. Also, provides a basis for planning how to spend money and predict future outcomes.
+- **Role of reports:** Ensure that financial plans are in sync with strategic objectives and instill confidence in the organization's financial future.
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
